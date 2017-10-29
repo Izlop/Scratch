@@ -1,0 +1,15 @@
+Al presionar tecla flecha arriba
+Apuntar en dirección 0
+mover 10 pasos
+
+Al presionar tecla flecha derecha 
+Apuntar en dirección 90
+mover 10 pasos
+
+Al presionar tecla flecha abajo
+Apuntar dirección 180
+mover 10 pasos
+
+Al presionar tecla flecha izquierda
+Apuntar dirección -90
+mover 10 pasos
